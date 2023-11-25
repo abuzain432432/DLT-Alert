@@ -11,11 +11,7 @@ payouts, remediation times, and lowering premiums. This means less
 risk and more uptime for our clients.and it can help you a lot during
 you learing journey.
 
-## if you are looking for a project where you can
-
-## learn HTML, CSS3, Web desing, Advanced css patterns, Responsive, Boostraap
-
-## Layouts and much more then this is the best project to look at
+## if you are looking for a project where you can learn HTML, CSS3, Web desing, Advanced css patterns, Responsive, Boostraap Layouts and much more then this is the best project to look at
 
 ##### . Please checkout my fiverr account if you want to hire me
 
